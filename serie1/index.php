@@ -7,7 +7,6 @@
 </head>
 <body>
 <?php 
-
 	echo 'Hello World';
 	require 'page2.php';
 ?>	

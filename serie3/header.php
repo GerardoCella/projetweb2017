@@ -15,6 +15,7 @@
 	    <ul class="nav navbar-nav">
 	      <li><a href="Page1.php">Régions</a></li>
 	      <li><a href="Page2.php">Foot</a></li>
+	      <li><a href="Page3.php">Exercices</a></li>
 	    </ul>
 	  </div>
 	</nav>
